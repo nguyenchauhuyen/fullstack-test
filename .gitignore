@@ -32,3 +32,8 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# dependencies
+/node_modules
+/out_functions
+/out_publish
